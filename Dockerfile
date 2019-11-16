@@ -1,4 +1,4 @@
-FROM alpine
+FROM debian
   
 ENV NPS_VERSION 0.24.0
 ENV NPS_RELEASE_URL_1   https://github.com/cnlh/nps/releases/download/v0.23.2/linux_amd64_server.tar.gz
